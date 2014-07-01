@@ -25,9 +25,15 @@ windows VS C++ 2008，或更高的版本。
 
 <br>
 
+##inilib的使用##
+
+请参考inilib WIKI中的内容。
+
+<br>
+
 ##inilib的许可证##
 
-inilib基于 **BSD** 许可证进行开发和发布。
+基于 **BSD** 许可证进行开发和发布。
 
 
 <br>
@@ -40,6 +46,6 @@ inilib基于 **BSD** 许可证进行开发和发布。
 <br>
 
 ---
-Last edit time: 2014/6/30
+Last edit time: 2014/7/1
 
 
